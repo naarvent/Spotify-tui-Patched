@@ -35,8 +35,8 @@ You’ll need Rust and Cargo installed:
 
 ```bash
 # Clone this repository
-git clone https://github.com/naarvent/spotify-tui-fixed.git
-cd spotify-tui-fixed
+git clone https://github.com/naarvent/spotify-tui-patched.git
+cd spotify-tui-patched
 
 # Build
 cargo build --release
