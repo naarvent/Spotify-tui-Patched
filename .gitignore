@@ -1,0 +1,93 @@
+# ======================================
+# Spotify-TUI Custom Build (.gitignore)
+# ======================================
+
+# --- Build outputs ---
+/target/
+**/*.exe
+**/*.dll
+**/*.pdb
+
+# --- Cargo / Rust ---
+Cargo.lock
+*.rlib
+*.rs.bk
+/.cargo/
+.cargo/
+vendor/**/.git
+vendor/**/.github
+
+# --- Local configuration ---
+/config/
+/config/*
+/.env
+.env
+*.local
+*.secret
+*.yml
+*.yaml
+
+# --- OS files ---
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX
+
+# Linux
+*~
+
+# --- Editor / IDE ---
+# VSCode
+.vscode/
+.history/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# JetBrains
+.idea/
+*.iml
+out/
+
+# --- Logs / Temp ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.old
+
+# --- Auth and token files ---
+/.config/spotify-tui/
+/.config/spotify-tui/client.yml
+/.spotify_token_cache.json
+
+# --- Backups or test files ---
+backup/
+temp/
+tests/temp/
+notes.txt
+README_TEO.txt
+
+# --- Node (if ever used for frontend extras) ---
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# --- Git ---
+.gitignore
+.gitattributes
+
+# --- Personal notes or exports ---
+*.txt
+*.md
+!README.md
+!LICENSE
