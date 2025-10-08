@@ -1,0 +1,12 @@
+C:\Users\teofu\spotify-tui\target\release\deps\miow-9f7ab4f63ce485e0.d: C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\lib.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\handle.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\overlapped.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\iocp.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\net.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\pipe.rs
+
+C:\Users\teofu\spotify-tui\target\release\deps\libmiow-9f7ab4f63ce485e0.rlib: C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\lib.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\handle.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\overlapped.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\iocp.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\net.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\pipe.rs
+
+C:\Users\teofu\spotify-tui\target\release\deps\libmiow-9f7ab4f63ce485e0.rmeta: C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\lib.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\handle.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\overlapped.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\iocp.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\net.rs C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\pipe.rs
+
+C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\lib.rs:
+C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\handle.rs:
+C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\overlapped.rs:
+C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\iocp.rs:
+C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\net.rs:
+C:\Users\teofu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\miow-0.2.2\src\pipe.rs:

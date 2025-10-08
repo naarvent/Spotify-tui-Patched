@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=C:\Users\teofu\spotify-tui\target\release\build\mime_guess-1a5fd25ac45defee\out\mime_types_generated.rs
